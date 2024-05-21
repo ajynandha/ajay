@@ -1,0 +1,45 @@
+.bg-container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.heading{
+    text-align: center;
+}
+.buttoncontainer{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.para1{
+    text-align: center;
+    background-color: #222222;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+}
+.para2{
+    text-align: center;
+}
+.button1{
+    height: 60px;
+    border-radius: 10px;
+    background-color: #e0e0e0;
+}
+.button2{
+    height: 60px;
+    border-radius: 10px;
+    background-color: #6fcf97;
+}
+.button3{
+    height: 60px;
+    border-radius: 10px;
+    background-color: #56ccf2;
+}
+.button4{
+    height: 60px;
+    border-radius: 10px;
+    background-color: #bb6bd9;
+}
+
