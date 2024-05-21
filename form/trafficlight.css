@@ -1,0 +1,66 @@
+.main{
+    padding-top: 18px;
+    text-align: center;
+    height: 100vh;
+    background-color: #86d2f2;
+    font-family: Roboto;
+}
+.signal{
+    padding-top: 36px;
+}
+.signal1{
+    border-radius: 30px;
+    height: 230px;
+    width: 86px;
+    background-color: #1f1d41;
+    padding-left: 26px;
+}
+.button1{
+    margin-bottom: 32px;
+    background-color: #1f1d41;
+    color: #ffffff;
+    border-radius: 10px;
+    font-size: 12px;
+    padding: 6px;
+    width: 60px;
+}
+.button2{
+    margin-bottom: 32px;
+    background-color: #1f1d41;
+    color: #ffffff;
+    border-radius: 10px;
+    font-size: 12px;
+    padding: 6px;
+    width: 60px;
+}
+.button3{
+    margin-bottom: 32px;
+    background-color: #1f1d41;
+    color: #ffffff;
+    border-radius: 10px;
+    font-size: 12px;
+    padding: 6px;
+    width: 60px;
+}
+.redsignal{
+    height: 36px;
+    width: 36px;
+    border-radius: 50%;
+    background-color: #4b5069;
+    margin-bottom: 32px;
+}
+.yellowsignal{
+    height: 36px;
+    width: 36px;
+    border-radius: 50%;
+    background-color: #4b5069;
+    margin-bottom: 32px;
+}
+.greensignal{
+    height: 36px;
+    width: 36px;
+    border-radius: 50%;
+    background-color: #4b5069;
+}
+
+
