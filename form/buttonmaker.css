@@ -1,0 +1,28 @@
+.bg-container{
+    background-image: linear-gradient(to right,#09203F,#537895);
+}
+.heading{
+    color: white;
+    font-size: 32px;
+    font-weight: 500;
+}
+.input-label{
+    color: #7B8794;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 12px;
+    margin-bottom: 6px;
+    padding-left: 10px;
+}
+.userInput{
+    width: 93%;
+    height: 30px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #CBD2D9;
+    border-radius: 4px;
+    padding-left: 10px;
+}
+.body{
+    background-color: white;
+}
