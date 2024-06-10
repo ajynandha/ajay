@@ -1,0 +1,21 @@
+.listItems{
+    font-family: Roboto;
+    font-weight: 500;
+}
+.unOrderedListContainer{
+    background-color: #f5f9fd;
+    padding: 30px;
+    border-radius: 12px;
+    margin-top: 12px;
+}
+.heading{
+    font-family: Roboto;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+}
+.bg-container{
+    background-color: #03254c;
+    height: 100vh;
+    padding: 30px;
+}
