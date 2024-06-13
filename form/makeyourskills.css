@@ -1,0 +1,24 @@
+.skills-Container{
+    padding: 20px;
+}
+.checked{
+    color: green;
+}
+.heading{
+    font-size: 28px;
+    margin-bottom: 16px;
+}
+.todo-items-container{
+    margin: 0px;
+    padding: 0px;
+}
+.checkbox-input{
+    height: 18px;
+    width: 18px;
+    margin-top: 3px;
+    margin-right: 12px;
+}
+.checkbox-label{
+    font-size: 16px;
+    font-weight: 400;
+}
