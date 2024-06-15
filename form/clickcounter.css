@@ -1,0 +1,22 @@
+.container{
+    background-color: #f1f5f8;
+    height: 50vh;
+    padding: 3px;
+}
+.head{
+    font-family: 'Roboto';
+    font-size: 46px;
+    font-weight: 600;
+}
+.par{
+    font-family: 'Roboto';
+    color: #2d3a35;
+}
+.span{
+    color: #c20a72;
+}
+.button{
+    font-family: 'Roboto';
+    width: 100px;
+    height: 50px;
+}
