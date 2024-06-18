@@ -1,0 +1,18 @@
+.json-container{
+    padding: 30px;
+}
+
+.heading{
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.para{
+    font-family: "Roboto";
+    background-color: #f3f3f3;
+    padding: 15px;
+    border-radius: 12px;
+    font-size: 15px;
+    font-weight: 500;
+}
