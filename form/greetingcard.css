@@ -1,0 +1,31 @@
+.greetingcard{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-dynamic-webapps/greeting-card-1-bg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 400px;
+    padding: 20px;
+    margin: 20px;
+}
+.greet{
+    color: #1f2933;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.heading{
+    color:#1f2933;
+    font-family: "playfair Display";
+    font-size: 50px;
+    font-weight: 500;
+}
+.newyear{
+    font-size: 75px;
+}
+.greetingtext{
+    text-align: center;
+    height: 80vh;
+}
+.greet-text{
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 24px;
+}
