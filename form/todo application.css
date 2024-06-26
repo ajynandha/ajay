@@ -131,8 +131,8 @@
 }
 
 .delete-icon-container {
-    text-align: right;
     align-self: center;
+    text-align: right;
 }
 
 .delete-icon {
