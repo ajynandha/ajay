@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Monoton&family=Open+Sans:wght@400;700&family=Playfair+Display+SC:wght@400;700&family=Playfair+Display:wght@400;700&family=Roboto:wght@400;700&family=Source+Sans+Pro:wght@400;700&family=Work+Sans:wght@400;700&display=swap");
+
+.bg-container {
+    padding-top: 60px;
+    background-color: #f97576;
+    height: 100vh;
+}
+
+.form-container {
+    margin-top: 20px;
+    background-color: white;
+    padding: 25px;
+    border-radius: 25px;
+}
+
+.heading {
+    color: white;
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.questio-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.label-text {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.error-message {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 600;
+}
